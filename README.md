@@ -1,2 +1,3 @@
-# End-to-End-BlogGenAI-Chatbot
-End-to-End BlogGenAI Chatbot
+### AI-Powered Blog Generator with Bedrock and Streamlit
+
+Developed an advanced BlogGenAI Chatbot using Llama 3 8B and AWS Bedrock services. This project employs Retrieval Augmented Generation (RAG) for dynamic fine-tuning on updated datasets, enabling the creation of highly realistic AI-generated blog content. The chatbot provides a seamless experience for generating and managing blog posts, integrating with content management systems (CMS) to automate content creation, editing, and publishing processes. This solution enhances content marketing strategies and improves engagement by delivering high-quality, relevant blog content.
